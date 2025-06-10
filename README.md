@@ -27,7 +27,7 @@ Pasos para ejecutar el proyecto en Windows
 Clona el repositorio (opcional)
 git clone https://github.com/DaveeTov/Evaluacion_Seguridad.git cd nombre-del-repo
 
-Crea un entorno virtual
+Crea un entorno virtual a partir de la carptea pythonowasp
 python -m venv venv (Se puede cambiar el nombre de venv por el nombre que prefieras)
 
 Activa el entorno virtual
